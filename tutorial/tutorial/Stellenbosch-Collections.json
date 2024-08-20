@@ -1,0 +1,34 @@
+[
+  {
+    "organization": "stellenbosch-university-za",
+    "title": "August De Villiers Cluver Collection",
+    "uuid": "be885127-c34e-3b3d-8ba4-dfe0fdaefb8f",
+    "url": "https://digital.lib.sun.ac.za/handle/10019.2/14889",
+    "type": "manuscript",
+    "country": "South Africa"
+  },
+  {
+    "organization": "stellenbosch-university-za",
+    "title": "Beyers Naudé Collection",
+    "uuid": "763fe813-b8a1-3fc3-6a50-1dc79ca44165",
+    "url": "https://digital.lib.sun.ac.za/handle/10019.2/5840",
+    "type": "manuscript",
+    "country": "South Africa"
+  },
+  {
+    "organization": "stellenbosch-university-za",
+    "title": "Frederik van Zyl Slabbert Collection",
+    "uuid": "b1fa0859-0d4a-ac13-4aff-7ddf0c90fe51",
+    "url": "https://digital.lib.sun.ac.za/handle/10019.2/14630",
+    "type" : "presentation-lecture",
+    "country": "South Africa"
+  },
+  {
+    "organization": "stellenbosch-university-za",
+    "title": "WJ Leyds Collection",
+    "uuid": "c443310e-2fc4-2021-46a6-13b22136d59d",
+    "url": "https://digital.lib.sun.ac.za/handle/10019.2/2124",
+    "type" : "ephemera",
+    "country": "South Africa"
+  }
+]

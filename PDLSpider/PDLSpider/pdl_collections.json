@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Books",
+    "url": "http://www.panjabdigilib.org/webuser/searches/mainpage.jsp?viewall=1&CategoryID=1",
+    "uuid": "63fa700b-0b38-413f-9fd4-e6b9c2c197b5",
+    "organization": "panjab-digital-library",
+    "type": "book"
+  },
+  {
+    "title": "Magazines",
+    "url": "http://www.panjabdigilib.org/webuser/searches/mainpage.jsp?viewall=1&CategoryID=2",
+    "uuid": "ff26bca4-e3b6-4a58-a820-775622e2ef84",
+    "organization": "panjab-digital-library",
+    "type": "magazine"
+  },
+  {
+    "title": "Newspapers",
+    "url": "http://www.panjabdigilib.org/webuser/searches/mainpage.jsp?viewall=1&CategoryID=5",
+    "uuid": "3ad53bb1-bfb5-4069-bb74-2b11416f71a7",
+    "organization": "panjab-digital-library",
+    "type": "other"
+  },
+  {
+    "title": "Pamphlets",
+    "url": "http://www.panjabdigilib.org/webuser/searches/mainpage.jsp?viewall=1&CategoryID=12",
+    "uuid": "d552c078-1183-4514-b22f-27b4e9ba7b3c",
+    "organization": "panjab-digital-library",
+    "type": "pamphlet"
+  }
+]
